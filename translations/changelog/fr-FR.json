@@ -1,7 +1,7 @@
 {
     "6.4.15": {
-        "b6914ccd62de14be314aaa45f758283bf2279bc55adb4dfc8777d5c71e426f28": "- Make changelog for appstore translatable",
-        "9a3feecb8808250e820d6540029a9db63abdfa39c2761a48f22456e7b1640087": "- Add Telugo translations",
-        "70de0f257d8679175af5616f12770be6e2ce1e6624587d9fc6cc1ef2f9f30036": "- Add Czech appstore translation"
+        "b6914ccd62de14be314aaa45f758283bf2279bc55adb4dfc8777d5c71e426f28": "- Le ChangeLog pour l’App Store est traduisible",
+        "9a3feecb8808250e820d6540029a9db63abdfa39c2761a48f22456e7b1640087": "- Ajout de la traduction en télougou",
+        "70de0f257d8679175af5616f12770be6e2ce1e6624587d9fc6cc1ef2f9f30036": "- Ajout de la traduction de l’App Store en tchèque"
     }
 }
