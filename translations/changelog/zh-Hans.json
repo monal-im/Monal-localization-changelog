@@ -6,6 +6,6 @@
         "69c6e72522dfc4a7dfb3d5150d1eadc6e4efe21a08a6c5667defc5837f77435e": "- 通过 Weblate 使 Appstore 元数据可翻译",
         "a561c8b4bb36aa8b2c27dfab36803b471b12ae19256075d5482781db7a5dd4cd": "- 通过 Weblate 使 Appstore 更新日志条目可翻译",
         "1e5e6fff6e55b745758353716b9eef46812f853d4c092ce16a68539eba780e8a": "- 改进 MAM 错误消息",
-        "25a385b22e98af5a67e729303413a9d078f11bf2f182d9f643695bb4dc8eb29e": "- Show additional confirmation dialog before sharing location in a chat"
+        "25a385b22e98af5a67e729303413a9d078f11bf2f182d9f643695bb4dc8eb29e": "- 在聊天中分享位置前显示额外的确认对话框"
     }
 }
