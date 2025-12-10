@@ -1,7 +1,10 @@
 {
     "6.4.15": {
-        "b6914ccd62de14be314aaa45f758283bf2279bc55adb4dfc8777d5c71e426f28": "- 使应用商店的更新日志支持多语言翻译",
+        "b6914ccd62de14be314aaa45f758283bf2279bc55adb4dfc8777d5c71e426f28": "- 使 Appstore 的更新日志可翻译",
         "9a3feecb8808250e820d6540029a9db63abdfa39c2761a48f22456e7b1640087": "- 添加泰卢固语翻译",
-        "70de0f257d8679175af5616f12770be6e2ce1e6624587d9fc6cc1ef2f9f30036": "- 添加捷克语应用商店翻译"
+        "70de0f257d8679175af5616f12770be6e2ce1e6624587d9fc6cc1ef2f9f30036": "- 添加捷克语 Appstore 翻译",
+        "69c6e72522dfc4a7dfb3d5150d1eadc6e4efe21a08a6c5667defc5837f77435e": "- 通过 Weblate 使 Appstore 元数据可翻译",
+        "a561c8b4bb36aa8b2c27dfab36803b471b12ae19256075d5482781db7a5dd4cd": "- 通过 Weblate 使 Appstore 更新日志条目可翻译",
+        "1e5e6fff6e55b745758353716b9eef46812f853d4c092ce16a68539eba780e8a": "- 改进 MAM 错误消息"
     }
 }
