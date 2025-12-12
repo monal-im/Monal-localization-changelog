@@ -11,6 +11,7 @@
         "63fa285a47f66d5ebfa2a246f0f733009e9c4b548e00495b73086a0237a82acc": "- Fix some presence leaks",
         "46eb62be81b4c284d79f6499a882067dcade49a57f4bb7eac44f88c60338e5f6": "- Detect device migrations more reliably",
         "9c89b216241779dfc2ae73cc1fff54be341b46ab3ba13d0b59b23d742e5d92c1": "- Improve OMEMO discovery for chats with users not in our contact list",
-        "24ee40117472d979de46a2f40164d5d92ea2cc14b78116de9741c59699fea5b7": "- Don't crash on very bind errors"
+        "24ee40117472d979de46a2f40164d5d92ea2cc14b78116de9741c59699fea5b7": "- Don't crash on very bind errors",
+        "075aaf2a8ff4b25d8ca06cd5c42126ede74ca06af9174d425fbe0ac16171e133": "- Don't crash on every bind errors"
     }
 }
