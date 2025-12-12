@@ -7,11 +7,11 @@
         "a561c8b4bb36aa8b2c27dfab36803b471b12ae19256075d5482781db7a5dd4cd": "- 通过 Weblate 使 Appstore 更新日志条目可翻译",
         "1e5e6fff6e55b745758353716b9eef46812f853d4c092ce16a68539eba780e8a": "- 改进 MAM 错误消息",
         "25a385b22e98af5a67e729303413a9d078f11bf2f182d9f643695bb4dc8eb29e": "- 在聊天中分享位置前显示额外的确认对话框",
-        "24ee40117472d979de46a2f40164d5d92ea2cc14b78116de9741c59699fea5b7": "- Don't crash on very bind errors",
-        "075aaf2a8ff4b25d8ca06cd5c42126ede74ca06af9174d425fbe0ac16171e133": "- Don't crash on every bind errors",
-        "9c89b216241779dfc2ae73cc1fff54be341b46ab3ba13d0b59b23d742e5d92c1": "- Improve OMEMO discovery for chats with users not in our contact list",
-        "46eb62be81b4c284d79f6499a882067dcade49a57f4bb7eac44f88c60338e5f6": "- Detect device migrations more reliably",
-        "63fa285a47f66d5ebfa2a246f0f733009e9c4b548e00495b73086a0237a82acc": "- Fix some presence leaks",
-        "8324b7c565bf5deb98bff8cb210c004d8d0fca48e122eda2b5f68a3b7fd18b2d": "- Change App Logo to Christmas special by Ann-Sophie Zwahlen"
+        "24ee40117472d979de46a2f40164d5d92ea2cc14b78116de9741c59699fea5b7": "- 避免在特定绑定错误时崩溃",
+        "075aaf2a8ff4b25d8ca06cd5c42126ede74ca06af9174d425fbe0ac16171e133": "- 避免在所有绑定错误时崩溃",
+        "9c89b216241779dfc2ae73cc1fff54be341b46ab3ba13d0b59b23d742e5d92c1": "- 改进与非联系人列表中的用户聊天时 OMEMO 的发现功能",
+        "46eb62be81b4c284d79f6499a882067dcade49a57f4bb7eac44f88c60338e5f6": "- 更可靠地检测设备迁移",
+        "63fa285a47f66d5ebfa2a246f0f733009e9c4b548e00495b73086a0237a82acc": "- 修复部分在线状态泄露问题",
+        "8324b7c565bf5deb98bff8cb210c004d8d0fca48e122eda2b5f68a3b7fd18b2d": "- 将应用徽标更换为 Ann-Sophie Zwahlen 设计的圣诞特别版"
     }
 }
