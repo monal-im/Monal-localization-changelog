@@ -6,6 +6,12 @@
         "69c6e72522dfc4a7dfb3d5150d1eadc6e4efe21a08a6c5667defc5837f77435e": "- Appstore meta verileri Weblate aracılığıyla çevrilebilir hale getirildi",
         "25a385b22e98af5a67e729303413a9d078f11bf2f182d9f643695bb4dc8eb29e": "- Sohbette konum paylaşmadan önce ek onay iletişim kutusu gösterilecek",
         "a561c8b4bb36aa8b2c27dfab36803b471b12ae19256075d5482781db7a5dd4cd": "- Appstore değişiklik günlükleri Weblate aracılığıyla çevrilebilir hale getirildi",
-        "1e5e6fff6e55b745758353716b9eef46812f853d4c092ce16a68539eba780e8a": "- MAM hata mesajları iyileştirildi"
+        "1e5e6fff6e55b745758353716b9eef46812f853d4c092ce16a68539eba780e8a": "- MAM hata mesajları iyileştirildi",
+        "24ee40117472d979de46a2f40164d5d92ea2cc14b78116de9741c59699fea5b7": "- Don't crash on very bind errors",
+        "075aaf2a8ff4b25d8ca06cd5c42126ede74ca06af9174d425fbe0ac16171e133": "- Don't crash on every bind errors",
+        "9c89b216241779dfc2ae73cc1fff54be341b46ab3ba13d0b59b23d742e5d92c1": "- Improve OMEMO discovery for chats with users not in our contact list",
+        "46eb62be81b4c284d79f6499a882067dcade49a57f4bb7eac44f88c60338e5f6": "- Detect device migrations more reliably",
+        "63fa285a47f66d5ebfa2a246f0f733009e9c4b548e00495b73086a0237a82acc": "- Fix some presence leaks",
+        "8324b7c565bf5deb98bff8cb210c004d8d0fca48e122eda2b5f68a3b7fd18b2d": "- Change App Logo to Christmas special by Ann-Sophie Zwahlen"
     }
 }
