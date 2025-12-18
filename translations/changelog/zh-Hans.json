@@ -13,6 +13,6 @@
         "46eb62be81b4c284d79f6499a882067dcade49a57f4bb7eac44f88c60338e5f6": "- 更可靠地检测设备迁移",
         "63fa285a47f66d5ebfa2a246f0f733009e9c4b548e00495b73086a0237a82acc": "- 修复部分在线状态泄露问题",
         "8324b7c565bf5deb98bff8cb210c004d8d0fca48e122eda2b5f68a3b7fd18b2d": "- 将应用徽标更换为 Ann-Sophie Zwahlen 设计的圣诞特别版",
-        "60dc8d8de9264d849debdcc557e15fa3303af6ce2f24845d7f6a0403d8869db5": "- Fixed rare crash when adding a new account"
+        "60dc8d8de9264d849debdcc557e15fa3303af6ce2f24845d7f6a0403d8869db5": "- 修复了添加新账号时的偶发崩溃问题"
     }
 }
