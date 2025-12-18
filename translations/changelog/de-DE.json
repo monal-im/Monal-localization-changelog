@@ -12,6 +12,7 @@
         "9c89b216241779dfc2ae73cc1fff54be341b46ab3ba13d0b59b23d742e5d92c1": "- OMEMO-Erkennung für Chats mit Nutzern verbessert, die nicht in der Kontaktliste stehen",
         "46eb62be81b4c284d79f6499a882067dcade49a57f4bb7eac44f88c60338e5f6": "- Geräte-Migrationen werden zuverlässiger erkannt",
         "63fa285a47f66d5ebfa2a246f0f733009e9c4b548e00495b73086a0237a82acc": "- Einige Anwesenheitslecks behoben",
-        "8324b7c565bf5deb98bff8cb210c004d8d0fca48e122eda2b5f68a3b7fd18b2d": "- App-Logo als Weihnachts-Special von Ann-Sophie Zwahlen geändert"
+        "8324b7c565bf5deb98bff8cb210c004d8d0fca48e122eda2b5f68a3b7fd18b2d": "- App-Logo als Weihnachts-Special von Ann-Sophie Zwahlen geändert",
+        "60dc8d8de9264d849debdcc557e15fa3303af6ce2f24845d7f6a0403d8869db5": "- Fixed rare crash when adding a new account"
     }
 }
