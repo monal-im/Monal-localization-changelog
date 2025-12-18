@@ -12,6 +12,7 @@
         "9c89b216241779dfc2ae73cc1fff54be341b46ab3ba13d0b59b23d742e5d92c1": "- Improve OMEMO discovery for chats with users not in our contact list",
         "46eb62be81b4c284d79f6499a882067dcade49a57f4bb7eac44f88c60338e5f6": "- Detect device migrations more reliably",
         "63fa285a47f66d5ebfa2a246f0f733009e9c4b548e00495b73086a0237a82acc": "- Fix some presence leaks",
-        "8324b7c565bf5deb98bff8cb210c004d8d0fca48e122eda2b5f68a3b7fd18b2d": "- Change App Logo to Christmas special by Ann-Sophie Zwahlen"
+        "8324b7c565bf5deb98bff8cb210c004d8d0fca48e122eda2b5f68a3b7fd18b2d": "- Change App Logo to Christmas special by Ann-Sophie Zwahlen",
+        "60dc8d8de9264d849debdcc557e15fa3303af6ce2f24845d7f6a0403d8869db5": "- Fixed rare crash when adding a new account"
     }
 }
