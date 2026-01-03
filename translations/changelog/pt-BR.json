@@ -4,6 +4,7 @@
         "d71b383a5c8c0ac4394e7cef69ca57813828005a4a7a5733d89059bfc95697cd": "- Dificulta os spammers de mencionar a todos: ignora menções se mais de 5 participantes forem mencionados por mensagem",
         "0e0df2778ea049b64d4e298e6f22970b443bb8ac827204d23a961c33b3aedeae": "- Corrigida tela preta aleatória em vídeo chamadas",
         "b679a6730935aede7ebbbe772aff4182fdbb5c029d712b7fe6216214c3127ddb": "- Exibe a afiliação de Visitante em Canais",
-        "aa00a3ba1ff178b42144029f4e5086838d2f43761ddb7048c8571b9c457c7820": "- Adicionado botão para Solicitar Participação nos detalhes de contato de Canais moderados"
+        "aa00a3ba1ff178b42144029f4e5086838d2f43761ddb7048c8571b9c457c7820": "- Adicionado botão para Solicitar Participação nos detalhes de contato de Canais moderados",
+        "59ea3e9b24d1c67ad3a4be5d057bf1d6ca681eab90c7b91a6dbdaa695ab25e6e": "- Removed christmas special again"
     }
 }
