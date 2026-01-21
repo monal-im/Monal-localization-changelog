@@ -1,1 +1,5 @@
-{}
+{
+    "6.4.18": {
+        "eeebb84b2c0d08b938ba64368c2ef5d6319fb42f1d4f793f4eecc6cf883aab63": "- 修复了 Mozilla webrtc-sdp 库中的错误，解决视频通话中断问题"
+    }
+}
