@@ -1,10 +1,1 @@
-{
-    "6.4.17": {
-        "edcacaf1a041a75d2fdd72c1704b4e0c98f95807fe0f32412a4102dd4b23d7e1": "- Dodano tłumaczenia na język estoński i telugu",
-        "d71b383a5c8c0ac4394e7cef69ca57813828005a4a7a5733d89059bfc95697cd": "- Utrudniono spamerom oznaczanie wszystkich: ignorowanie oznaczeń, jeśli dotyczy ono więcej niż 5 użytkowników w jednej wiadomości",
-        "0e0df2778ea049b64d4e298e6f22970b443bb8ac827204d23a961c33b3aedeae": "- Naprawiono występujący losowo czarny ekran podczas rozmów wideo",
-        "b679a6730935aede7ebbbe772aff4182fdbb5c029d712b7fe6216214c3127ddb": "- Prawidłowe wyświetlanie roli Odwiedzającego w Kanałach",
-        "aa00a3ba1ff178b42144029f4e5086838d2f43761ddb7048c8571b9c457c7820": "- Dodano przycisk \"Poproś o głos\" w szczegółach kontaktu Kanałów moderowanych",
-        "59ea3e9b24d1c67ad3a4be5d057bf1d6ca681eab90c7b91a6dbdaa695ab25e6e": "- Ponowne usunięcie loga świątecznego"
-    }
-}
+{}

@@ -1,10 +1,1 @@
-{
-    "6.4.17": {
-        "edcacaf1a041a75d2fdd72c1704b4e0c98f95807fe0f32412a4102dd4b23d7e1": "- Ajout des traductions estonienne et télougoue",
-        "d71b383a5c8c0ac4394e7cef69ca57813828005a4a7a5733d89059bfc95697cd": "- Make it harder for spammers to mention everybody: ignore mentions if more than 5 participants are mentioned per message",
-        "0e0df2778ea049b64d4e298e6f22970b443bb8ac827204d23a961c33b3aedeae": "- Fixed random black video feed on video calls",
-        "b679a6730935aede7ebbbe772aff4182fdbb5c029d712b7fe6216214c3127ddb": "- Properly display Visitor role in Channels",
-        "aa00a3ba1ff178b42144029f4e5086838d2f43761ddb7048c8571b9c457c7820": "- Add \"Request Voice\" button to contact details of moderated Channels",
-        "59ea3e9b24d1c67ad3a4be5d057bf1d6ca681eab90c7b91a6dbdaa695ab25e6e": "- Removed christmas special again"
-    }
-}
+{}
