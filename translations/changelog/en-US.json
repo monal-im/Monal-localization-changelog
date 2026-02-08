@@ -8,6 +8,7 @@
         "2f60d974b969f83ce67e8dc5cedadb2ed51a2f33a7ff25e3897dc639c547bbe4": "- Made sure to periodically advance the OMEMO DH-ratchet even on devices only used for receiving messages, not sending",
         "8ffcf62520360cea448590998e2e14de84d41e6c35be2a2b32ba2db795c8a9e7": "- Made sure to remove old OMEMO devices not seen for more than 90 days from own devicelist",
         "2a68fd60ea97a3565238ac2c5def887a88e6921b2e043a3f67d13af7d1c860af": "- Better fix for audio/video codec issues (aka black video stream)",
-        "b1f5db483cca55c6c604a5c4652e2fda0758432f7e762dfc23d214a913baf44d": "- Fixed crash when receiving broken OMEMO bundles"
+        "b1f5db483cca55c6c604a5c4652e2fda0758432f7e762dfc23d214a913baf44d": "- Fixed crash when receiving broken OMEMO bundles",
+        "2ae1905dde6d845cf158e89cff1db89a5a3fa3d7d5bc7776dc93398f53e9d712": "- Fixed crash on broken OMEMO bundles again"
     }
 }
