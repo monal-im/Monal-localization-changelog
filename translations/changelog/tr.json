@@ -9,6 +9,6 @@
         "54fddab11c5fb6b95b31a5a632783770c4f3aa1df04a62de80a926081ebb1c91": "- Bazı nadir durumlarda kullanıcı arayüzünün tepki hızı iyileştirildi",
         "2a68fd60ea97a3565238ac2c5def887a88e6921b2e043a3f67d13af7d1c860af": "- Ses/video codec sorunları için daha iyi düzeltme (diğer adıyla siyah video akışı)",
         "b1f5db483cca55c6c604a5c4652e2fda0758432f7e762dfc23d214a913baf44d": "- Bozuk OMEMO paketleri alınırken meydana gelen çökme sorunu düzeltildi",
-        "2ae1905dde6d845cf158e89cff1db89a5a3fa3d7d5bc7776dc93398f53e9d712": "- Fixed crash on broken OMEMO bundles again"
+        "2ae1905dde6d845cf158e89cff1db89a5a3fa3d7d5bc7776dc93398f53e9d712": "- Bozuk OMEMO paketlerinde tekrar meydana gelen çökme sorunu düzeltildi"
     }
 }
