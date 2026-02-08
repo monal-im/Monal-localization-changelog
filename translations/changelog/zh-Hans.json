@@ -9,6 +9,6 @@
         "54fddab11c5fb6b95b31a5a632783770c4f3aa1df04a62de80a926081ebb1c91": "- 优化了部分特定情况下的界面响应速度",
         "2a68fd60ea97a3565238ac2c5def887a88e6921b2e043a3f67d13af7d1c860af": "- 更好地解决音视频编解码器问题（即视频黑屏问题）",
         "b1f5db483cca55c6c604a5c4652e2fda0758432f7e762dfc23d214a913baf44d": "- 修复接收损坏的 OMEMO 包时的崩溃问题",
-        "2ae1905dde6d845cf158e89cff1db89a5a3fa3d7d5bc7776dc93398f53e9d712": "- Fixed crash on broken OMEMO bundles again"
+        "2ae1905dde6d845cf158e89cff1db89a5a3fa3d7d5bc7776dc93398f53e9d712": "- 再次修复了损坏的 OMEMO 包导致的崩溃问题"
     }
 }
