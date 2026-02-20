@@ -1,9 +1,9 @@
 {
     "6.4.18": {
-        "9fd5e68025288f140342b22597da67553106d9338351a89e7318f68f1356f78f": "- Reworked complete OMEMO trust management",
+        "9fd5e68025288f140342b22597da67553106d9338351a89e7318f68f1356f78f": "- Herzien complete OMEMO vertrouwen management",
         "2f60d974b969f83ce67e8dc5cedadb2ed51a2f33a7ff25e3897dc639c547bbe4": "- Made sure to periodically advance the OMEMO DH-ratchet even on devices only used for receiving messages, not sending",
-        "eeebb84b2c0d08b938ba64368c2ef5d6319fb42f1d4f793f4eecc6cf883aab63": "- Fixed broken video calls by fixing bug in Mozilla's webrtc-sdp library",
-        "b64aaaed33e0f54e8a833e637d5cba6b9580d3a54e679df990cac432145f382e": "- Fixed spurious \"new OMEMO device found\" notifications and status messages",
+        "eeebb84b2c0d08b938ba64368c2ef5d6319fb42f1d4f793f4eecc6cf883aab63": "- Gebroken videogesprekken gefixt door bug in Mozilla's webrtc-sdp-bibliotheek te verhelpen",
+        "b64aaaed33e0f54e8a833e637d5cba6b9580d3a54e679df990cac432145f382e": "- Valse meldingen en statusberichten over ‘nieuw OMEMO-apparaat gevonden’ opgelost",
         "8ffcf62520360cea448590998e2e14de84d41e6c35be2a2b32ba2db795c8a9e7": "- Made sure to remove old OMEMO devices not seen for more than 90 days from own devicelist",
         "b639b0791de55ca3b0511f116ee5f01099a654995462bc149d475a6fb513e02c": "- Introduced some new OMEMO expert settings",
         "54fddab11c5fb6b95b31a5a632783770c4f3aa1df04a62de80a926081ebb1c91": "- Improved UI responsiveness in some rare cases",
