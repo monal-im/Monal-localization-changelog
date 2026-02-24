@@ -1,14 +1,1 @@
-{
-    "6.4.18": {
-        "9fd5e68025288f140342b22597da67553106d9338351a89e7318f68f1356f78f": "- Tamamen yenilenen OMEMO güven yönetimi",
-        "2f60d974b969f83ce67e8dc5cedadb2ed51a2f33a7ff25e3897dc639c547bbe4": "- OMEMO-DH-Ratchet'in, mesajları yalnızca almak için kullanılan ve göndermek için kullanılmayan cihazlarda da düzenli olarak güncellenmesini sağladı",
-        "eeebb84b2c0d08b938ba64368c2ef5d6319fb42f1d4f793f4eecc6cf883aab63": "- Mozilla'nın webrtc-sdp kütüphanesindeki bir hata düzeltilerek hatalı görüntülü aramalar sorunu giderildi",
-        "b64aaaed33e0f54e8a833e637d5cba6b9580d3a54e679df990cac432145f382e": "- Yanlış “yeni OMEMO cihazı bulundu” bildirimleri ve durum mesajları düzeltildi",
-        "8ffcf62520360cea448590998e2e14de84d41e6c35be2a2b32ba2db795c8a9e7": "- 90 günden fazla süredir görünmeyen eski OMEMO cihazlarının kendi cihaz listesinden kaldırılmasını sağladı",
-        "b639b0791de55ca3b0511f116ee5f01099a654995462bc149d475a6fb513e02c": "- Bazı yeni OMEMO uzman ayarları eklendi",
-        "54fddab11c5fb6b95b31a5a632783770c4f3aa1df04a62de80a926081ebb1c91": "- Bazı nadir durumlarda kullanıcı arayüzünün tepki hızı iyileştirildi",
-        "2a68fd60ea97a3565238ac2c5def887a88e6921b2e043a3f67d13af7d1c860af": "- Ses/video codec sorunları için daha iyi düzeltme (diğer adıyla siyah video akışı)",
-        "b1f5db483cca55c6c604a5c4652e2fda0758432f7e762dfc23d214a913baf44d": "- Bozuk OMEMO paketleri alınırken meydana gelen çökme sorunu düzeltildi",
-        "2ae1905dde6d845cf158e89cff1db89a5a3fa3d7d5bc7776dc93398f53e9d712": "- Bozuk OMEMO paketlerinde tekrar meydana gelen çökme sorunu düzeltildi"
-    }
-}
+{}
