@@ -1,9 +1,9 @@
 {
     "6.4.19": {
-        "a68387f71cb29dc73ef22c917a6c6adf750b4c69818370452c32024f7956d2f1": "- Improved accessibility if users configure a dynamic font in settings (bigger text sizes)",
-        "4998ddea1808b5c1bdbd90fe70b0a7992ba24ffa39f7b09acb2aa697f6eef2df": "- Fixed omemo devicelist updates not published properly",
-        "363778539e0fe82ff425511c4461d7366f06555334d4ccfcf86ef8788a300edf": "- Fixed audio playback not working after recording a voice message",
-        "199a7c62e46639ae113ee4210387efc6295c000523b251cdab7e0a9186951755": "- Allow users to ping the push appserver for debugging notification problems",
-        "777505aa2dc1d0afc81925e026193f40a158aaa19f99429da838f377dd76af48": "- Sort media gallery items from most recent to oldest"
+        "a68387f71cb29dc73ef22c917a6c6adf750b4c69818370452c32024f7956d2f1": "- Kullanıcılar ayarlarda dinamik yazı tipi ayarladığında erişilebilirlik iyileştirildi (daha büyük metin boyutları)",
+        "4998ddea1808b5c1bdbd90fe70b0a7992ba24ffa39f7b09acb2aa697f6eef2df": "- Düzgün yayınlanmayan omemo cihaz listesi güncellemeleri düzeltildi",
+        "363778539e0fe82ff425511c4461d7366f06555334d4ccfcf86ef8788a300edf": "- Sesli mesaj kaydedildikten sonra ses çalma özelliğinin çalışmama sorunu giderildi",
+        "199a7c62e46639ae113ee4210387efc6295c000523b251cdab7e0a9186951755": "- Kullanıcıların, bildirim sorunlarını kontrol etmek için push uygulama sunucusuna ping atmalarını sağla",
+        "777505aa2dc1d0afc81925e026193f40a158aaa19f99429da838f377dd76af48": "- Medya galerisi öğelerini en yenisinden en eskisine göre sıralama"
     }
 }
