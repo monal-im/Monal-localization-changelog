@@ -4,6 +4,8 @@
         "199a7c62e46639ae113ee4210387efc6295c000523b251cdab7e0a9186951755": "- Allow users to ping the push appserver for debugging notification problems",
         "4998ddea1808b5c1bdbd90fe70b0a7992ba24ffa39f7b09acb2aa697f6eef2df": "- Fixed omemo devicelist updates not published properly",
         "363778539e0fe82ff425511c4461d7366f06555334d4ccfcf86ef8788a300edf": "- Fixed audio playback not working after recording a voice message",
-        "a68387f71cb29dc73ef22c917a6c6adf750b4c69818370452c32024f7956d2f1": "- Improved accessibility if users configure a dynamic font in settings (bigger text sizes)"
+        "a68387f71cb29dc73ef22c917a6c6adf750b4c69818370452c32024f7956d2f1": "- Improved accessibility if users configure a dynamic font in settings (bigger text sizes)",
+        "12aab53148ac46feda390064e43dad66b2bcd9fd2db8db8fac0475d640b0c2cc": "- Fixed endless loop adding/removing devices from omemo devicelist",
+        "265acd045386a1223da07f2de218b2717b9d44b70faf7f9ea91a66580171f7be": "- Some more small fixes/improvements"
     }
 }
