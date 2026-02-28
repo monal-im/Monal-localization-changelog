@@ -4,6 +4,10 @@
         "4998ddea1808b5c1bdbd90fe70b0a7992ba24ffa39f7b09acb2aa697f6eef2df": "- Fehler behoben, durch den Aktualisierungen der OMEMO-Geräteliste nicht ordnungsgemäß veröffentlicht wurden",
         "363778539e0fe82ff425511c4461d7366f06555334d4ccfcf86ef8788a300edf": "- Problem behoben, bei dem die Audiowiedergabe nach der Aufnahme einer Sprachnachricht nicht funktionierte",
         "199a7c62e46639ae113ee4210387efc6295c000523b251cdab7e0a9186951755": "- Benutzern ermöglicht, den Push-Appserver anzupingen, um Probleme bei der Benachrichtigung zu überprüfen",
-        "777505aa2dc1d0afc81925e026193f40a158aaa19f99429da838f377dd76af48": "- Mediengalerie-Elemente vom Neuesten zum Ältesten sortieren"
+        "777505aa2dc1d0afc81925e026193f40a158aaa19f99429da838f377dd76af48": "- Mediengalerie-Elemente vom Neuesten zum Ältesten sortieren",
+        "12aab53148ac46feda390064e43dad66b2bcd9fd2db8db8fac0475d640b0c2cc": "- Fixed endless loop adding/removing devices from omemo devicelist",
+        "8043805fa52952db1361483dd30b0fa00722d068ffddf3fe00ab88b71cb5eda7": "- Don't try to retrieve messages older than our autodelete timeout, if active",
+        "265acd045386a1223da07f2de218b2717b9d44b70faf7f9ea91a66580171f7be": "- Some more small fixes/improvements",
+        "9c5fac239cda728a7d0ac4d24eacb8d471dbd25021398c0731fda6b2a393113c": "- Added more debug logging to catch deadlock"
     }
 }
