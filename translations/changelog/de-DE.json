@@ -8,6 +8,9 @@
         "12aab53148ac46feda390064e43dad66b2bcd9fd2db8db8fac0475d640b0c2cc": "- Endlosschleife beim Hinzufügen/Entfernen von Geräten aus der OMEMO-Geräteliste behoben",
         "8043805fa52952db1361483dd30b0fa00722d068ffddf3fe00ab88b71cb5eda7": "- Versucht nicht mehr Nachrichten abzurufen, die älter sind als unsere automatische Löschfrist, falls aktiv",
         "265acd045386a1223da07f2de218b2717b9d44b70faf7f9ea91a66580171f7be": "- Einige weitere kleinere Korrekturen/Verbesserungen",
-        "9c5fac239cda728a7d0ac4d24eacb8d471dbd25021398c0731fda6b2a393113c": "- Weitere Debug-Protokollierung hinzugefügt, um Deadlocks zu erkennen"
+        "9c5fac239cda728a7d0ac4d24eacb8d471dbd25021398c0731fda6b2a393113c": "- Weitere Debug-Protokollierung hinzugefügt, um Deadlocks zu erkennen",
+        "17c48a09548faa63a1e19f0039d3e96ad88149feb15287baa3f3b9af9e30b16e": "- Added even more debug logging",
+        "9850c5e1593c547a6a083e182ce464611c5098073f55c638395bc081448540e0": "- Moved heavy deallocation work to a background task to make initial connection faster",
+        "461f860288066aa00837096d8447bea79afa9d5cf423ab59dcdbc80dfa9b1a3e": "- Fixed crash when opening a new chat that wasn't listed as active before"
     }
 }
