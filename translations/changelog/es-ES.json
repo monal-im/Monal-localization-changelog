@@ -11,6 +11,7 @@
         "9c5fac239cda728a7d0ac4d24eacb8d471dbd25021398c0731fda6b2a393113c": "- Se agregaron más registros de depuración para detectar bloqueos",
         "17c48a09548faa63a1e19f0039d3e96ad88149feb15287baa3f3b9af9e30b16e": "- Se agregaron aún más registros de depuración",
         "9850c5e1593c547a6a083e182ce464611c5098073f55c638395bc081448540e0": "- Se trasladó el trabajo pesado de desasignación a una tarea en segundo plano para que la conexión inicial sea más rápida",
-        "461f860288066aa00837096d8447bea79afa9d5cf423ab59dcdbc80dfa9b1a3e": "- Se solucionó el fallo que se producía al abrir un nuevo chat que no figuraba como activo anteriormente"
+        "461f860288066aa00837096d8447bea79afa9d5cf423ab59dcdbc80dfa9b1a3e": "- Se solucionó el fallo que se producía al abrir un nuevo chat que no figuraba como activo anteriormente",
+        "3bd04ee8669a319eb13fe0519f7b5a1b1ffd00f1580c230317a3fa863ba9cef8": "- Fixed internal state updates taking too long"
     }
 }
