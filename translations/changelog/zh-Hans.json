@@ -12,6 +12,6 @@
         "17c48a09548faa63a1e19f0039d3e96ad88149feb15287baa3f3b9af9e30b16e": "- 添加了更多的调试日志记录",
         "9850c5e1593c547a6a083e182ce464611c5098073f55c638395bc081448540e0": "- 将繁重的资源释放操作移至后台任务，以加快初始连接速度",
         "461f860288066aa00837096d8447bea79afa9d5cf423ab59dcdbc80dfa9b1a3e": "- 修复了在打开之前未列为活跃状态的新聊天时发生的崩溃问题",
-        "3bd04ee8669a319eb13fe0519f7b5a1b1ffd00f1580c230317a3fa863ba9cef8": "- Fixed internal state updates taking too long"
+        "3bd04ee8669a319eb13fe0519f7b5a1b1ffd00f1580c230317a3fa863ba9cef8": "- 修复了内部状态更新耗时过长的问题"
     }
 }
