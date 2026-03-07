@@ -9,9 +9,9 @@
         "8043805fa52952db1361483dd30b0fa00722d068ffddf3fe00ab88b71cb5eda7": "- Etkinse, otomatik silme zaman aşımı süresinden daha eski mesajları almaya çalışmayın",
         "265acd045386a1223da07f2de218b2717b9d44b70faf7f9ea91a66580171f7be": "- Bazı küçük düzeltmeler/iyileştirmeler",
         "9c5fac239cda728a7d0ac4d24eacb8d471dbd25021398c0731fda6b2a393113c": "- Tıkanıklığı yakalamak için daha fazla hata ayıklama günlüğü eklendi",
-        "17c48a09548faa63a1e19f0039d3e96ad88149feb15287baa3f3b9af9e30b16e": "- Added even more debug logging",
-        "9850c5e1593c547a6a083e182ce464611c5098073f55c638395bc081448540e0": "- Moved heavy deallocation work to a background task to make initial connection faster",
-        "461f860288066aa00837096d8447bea79afa9d5cf423ab59dcdbc80dfa9b1a3e": "- Fixed crash when opening a new chat that wasn't listed as active before",
-        "3bd04ee8669a319eb13fe0519f7b5a1b1ffd00f1580c230317a3fa863ba9cef8": "- Fixed internal state updates taking too long"
+        "17c48a09548faa63a1e19f0039d3e96ad88149feb15287baa3f3b9af9e30b16e": "- Daha fazla hata ayıklama günlüğü eklendi",
+        "9850c5e1593c547a6a083e182ce464611c5098073f55c638395bc081448540e0": "- Kapsamlı onay görevleri, ilk bağlantıyı hızlandırmak için arka plan işlemine aktarıldı",
+        "461f860288066aa00837096d8447bea79afa9d5cf423ab59dcdbc80dfa9b1a3e": "- Daha önce aktif olarak listelenmeyen yeni bir sohbeti açarken yaşanan çökme sorunu giderildi",
+        "3bd04ee8669a319eb13fe0519f7b5a1b1ffd00f1580c230317a3fa863ba9cef8": "- Dahili durum güncellemelerinin çok uzun sürmesi sorunu giderildi"
     }
 }
