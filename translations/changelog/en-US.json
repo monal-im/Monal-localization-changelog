@@ -12,6 +12,9 @@
         "17c48a09548faa63a1e19f0039d3e96ad88149feb15287baa3f3b9af9e30b16e": "- Added even more debug logging",
         "461f860288066aa00837096d8447bea79afa9d5cf423ab59dcdbc80dfa9b1a3e": "- Fixed crash when opening a new chat that wasn't listed as active before",
         "9850c5e1593c547a6a083e182ce464611c5098073f55c638395bc081448540e0": "- Moved heavy deallocation work to a background task to make initial connection faster",
-        "3bd04ee8669a319eb13fe0519f7b5a1b1ffd00f1580c230317a3fa863ba9cef8": "- Fixed internal state updates taking too long"
+        "3bd04ee8669a319eb13fe0519f7b5a1b1ffd00f1580c230317a3fa863ba9cef8": "- Fixed internal state updates taking too long",
+        "ecf2cb9b7799a228966905840e1ee1bc60bf30ed39267281d67688bf93e605a4": "- Accelerated connection establishment",
+        "5f07e7a7ff51c2450d9e2a5c6d4e6743499f4d8b39b7efe43a46302c319ae6bd": "- Fixed joining of groups/channels after a longer period of being offline",
+        "410e2482d0806c35580d481564d75efca888ca87fe8f190adbd8285b515db6c4": "- Fixed long delay when sometimes answering an incoming call"
     }
 }
