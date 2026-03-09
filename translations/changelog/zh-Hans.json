@@ -13,8 +13,8 @@
         "9850c5e1593c547a6a083e182ce464611c5098073f55c638395bc081448540e0": "- 将繁重的资源释放操作移至后台任务，以加快初始连接速度",
         "461f860288066aa00837096d8447bea79afa9d5cf423ab59dcdbc80dfa9b1a3e": "- 修复了在打开之前未列为活跃状态的新聊天时发生的崩溃问题",
         "3bd04ee8669a319eb13fe0519f7b5a1b1ffd00f1580c230317a3fa863ba9cef8": "- 修复了内部状态更新耗时过长的问题",
-        "5f07e7a7ff51c2450d9e2a5c6d4e6743499f4d8b39b7efe43a46302c319ae6bd": "- Fixed joining of groups/channels after a longer period of being offline",
-        "ecf2cb9b7799a228966905840e1ee1bc60bf30ed39267281d67688bf93e605a4": "- Accelerated connection establishment",
-        "410e2482d0806c35580d481564d75efca888ca87fe8f190adbd8285b515db6c4": "- Fixed long delay when sometimes answering an incoming call"
+        "5f07e7a7ff51c2450d9e2a5c6d4e6743499f4d8b39b7efe43a46302c319ae6bd": "- 修复了离线较长时间后加入群聊/频道的问题",
+        "ecf2cb9b7799a228966905840e1ee1bc60bf30ed39267281d67688bf93e605a4": "- 加快连接建立速度",
+        "410e2482d0806c35580d481564d75efca888ca87fe8f190adbd8285b515db6c4": "- 修复了偶尔接听来电时长延迟的问题"
     }
 }
