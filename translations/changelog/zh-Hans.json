@@ -16,7 +16,7 @@
         "5f07e7a7ff51c2450d9e2a5c6d4e6743499f4d8b39b7efe43a46302c319ae6bd": "- 修复了离线较长时间后加入群聊/频道的问题",
         "ecf2cb9b7799a228966905840e1ee1bc60bf30ed39267281d67688bf93e605a4": "- 加快连接建立速度",
         "410e2482d0806c35580d481564d75efca888ca87fe8f190adbd8285b515db6c4": "- 修复了偶尔接听来电时长延迟的问题",
-        "5dd895caee2cebb18eb3333e3c17113ed1c7c1eb9fb0f1746b30a26f8c706bdb": "- Some internal restructuring",
-        "1950a5e8def95982bc2a33b79d6c829e78a4ce10ba6fac3847cdc93bf899a0ee": "- Fixed audio recording timer visibility in dark mode"
+        "5dd895caee2cebb18eb3333e3c17113ed1c7c1eb9fb0f1746b30a26f8c706bdb": "- 一些内部重组",
+        "1950a5e8def95982bc2a33b79d6c829e78a4ce10ba6fac3847cdc93bf899a0ee": "- 修复了音频录制计时器在深色模式下的可见性问题"
     }
 }
