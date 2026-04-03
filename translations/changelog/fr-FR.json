@@ -13,10 +13,10 @@
         "9850c5e1593c547a6a083e182ce464611c5098073f55c638395bc081448540e0": "- Déplacement de taches de des-allocation lourdes dans une tâche de fond pour rendre la connexion initiale plus rapide",
         "461f860288066aa00837096d8447bea79afa9d5cf423ab59dcdbc80dfa9b1a3e": "- Correction d'un crash lors de l'ouverture d'un nouveau chat qui n'était pas répertorié comme actif avant",
         "3bd04ee8669a319eb13fe0519f7b5a1b1ffd00f1580c230317a3fa863ba9cef8": "-Correction de mises à jour de l'état interne prenant trop de temps",
-        "5f07e7a7ff51c2450d9e2a5c6d4e6743499f4d8b39b7efe43a46302c319ae6bd": "- Fixed joining of groups/channels after a longer period of being offline",
-        "ecf2cb9b7799a228966905840e1ee1bc60bf30ed39267281d67688bf93e605a4": "- Accelerated connection establishment",
-        "410e2482d0806c35580d481564d75efca888ca87fe8f190adbd8285b515db6c4": "- Fixed long delay when sometimes answering an incoming call",
-        "5dd895caee2cebb18eb3333e3c17113ed1c7c1eb9fb0f1746b30a26f8c706bdb": "- Some internal restructuring",
-        "1950a5e8def95982bc2a33b79d6c829e78a4ce10ba6fac3847cdc93bf899a0ee": "- Fixed audio recording timer visibility in dark mode"
+        "5f07e7a7ff51c2450d9e2a5c6d4e6743499f4d8b39b7efe43a46302c319ae6bd": "- Correction sur les groupes/canaux après une longue période d'absence",
+        "ecf2cb9b7799a228966905840e1ee1bc60bf30ed39267281d67688bf93e605a4": "- Établissement de connexion accélérée",
+        "410e2482d0806c35580d481564d75efca888ca87fe8f190adbd8285b515db6c4": "- Correction du long délai lors de la réponse à un appel entrant",
+        "5dd895caee2cebb18eb3333e3c17113ed1c7c1eb9fb0f1746b30a26f8c706bdb": "- Restructuration interne",
+        "1950a5e8def95982bc2a33b79d6c829e78a4ce10ba6fac3847cdc93bf899a0ee": "- Correction de la visibilité d'enregistrement audio en mode sombre"
     }
 }
