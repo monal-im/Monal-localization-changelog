@@ -1,1 +1,12 @@
-{}
+{
+    "6.4.20": {
+        "10f984591188f9bce08915f03687f34f8768437e033538cfa567351b66600959": "- Fixed list of contacts in share sheet to not contain contacts only known from groupchats (thanks Kati)",
+        "9b8c499fc0484492cbbb923dc76a0152befa2d7b2031acee58f4d1d4d4c6f2b6": "- Fixed rare case not connecting to a server after bringing the app from foreground to background too fast",
+        "b43864ee5ae77eb313d60ad72b3a7703c70090ce5dc8181237b63033c23330e1": "- Fixed very rare OMEMO identity regeneration when receiving a push after device reboot but before entering the passcode for the first time",
+        "4a868cde2a734362113969168e37a60bb21c771888d274527fa45cebf688250b": "- Fixed crash when receiving files with too long filenames",
+        "9549812b9b17cc7225daa8c79acaf56d1f5f150b91d7af58af11341f6bb46875": "- Now forcing SASL2+SCRAM for yax.im (already forced for conversations.im)",
+        "112ac3bdcdb2a2fd0f8a42e78b1c195c5ec38d11b0b60403a5d52e4fc652fc47": "- Fixed display of messages containing a list of urls",
+        "72ee0834d258e5275e92e0d4063b612ea793575e0e2c76ecc0511593abe1a0a4": "- Fixed rare OMEMO devicelist publishing loop (thanks renegade)",
+        "2fd5948cd3564047d7ac02572f484a2c183a93691a3166365b68b39ea3d45912": "- Notes about new/deleted OMEMO devices of chat partners aren't displayed anymore for TOFU devices (no device explicitly trusted/untrusted by the user)"
+    }
+}
