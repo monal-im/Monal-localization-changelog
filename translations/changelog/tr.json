@@ -7,6 +7,6 @@
         "9549812b9b17cc7225daa8c79acaf56d1f5f150b91d7af58af11341f6bb46875": "- Artık yax.im için SASL2+SCRAM kullanımı zorunlu hale getirildi (conversations.im için zaten zorunluydu)",
         "112ac3bdcdb2a2fd0f8a42e78b1c195c5ec38d11b0b60403a5d52e4fc652fc47": "- URL listesi içeren mesajların görüntülenmesi sorunu giderildi",
         "72ee0834d258e5275e92e0d4063b612ea793575e0e2c76ecc0511593abe1a0a4": "- Nadiren ortaya çıkan OMEMO cihaz listesi yayınlama döngüsü sorunu giderildi (teşekkürler renegade)",
-        "2fd5948cd3564047d7ac02572f484a2c183a93691a3166365b68b39ea3d45912": "- Notes about new/deleted OMEMO devices of chat partners aren't displayed anymore for TOFU devices (no device explicitly trusted/untrusted by the user)"
+        "2fd5948cd3564047d7ac02572f484a2c183a93691a3166365b68b39ea3d45912": "- TOFU cihazlarında (kullanıcı tarafından açıkça güvenilir veya güvenilmez olarak işaretlenmemiş cihazlar), sohbet ortaklarının yeni eklenen veya silinen OMEMO cihazlarına ilişkin notlar artık görüntülenmiyor"
     }
 }
