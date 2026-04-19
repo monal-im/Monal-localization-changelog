@@ -2,13 +2,13 @@
     "6.4.20": {
         "10f984591188f9bce08915f03687f34f8768437e033538cfa567351b66600959": "- Correction de la liste des contacts dans l'interface de partage, afin qu'elle ne contienne pas de contacts connus seulement de chats de groupes (merci à Kali)",
         "9b8c499fc0484492cbbb923dc76a0152befa2d7b2031acee58f4d1d4d4c6f2b6": "- Correction d'un rare cas d'absence de connexion à un serveur après avoir mis l'application de l'avant-plan à l'arrière-plan trop rapidement",
-        "b43864ee5ae77eb313d60ad72b3a7703c70090ce5dc8181237b63033c23330e1": "- Fixed very rare OMEMO identity regeneration when receiving a push after device reboot but before entering the passcode for the first time",
+        "b43864ee5ae77eb313d60ad72b3a7703c70090ce5dc8181237b63033c23330e1": "- Correction d'une rare régénération d'identité OMEMO lors de la réception d'une poussée après le redémarrage de l'appareil, mais avant d'entrer le mot de passe pour la première fois",
         "4a868cde2a734362113969168e37a60bb21c771888d274527fa45cebf688250b": "- Correction d'un crash lors de la réception de fichiers avec des noms trop longs",
-        "9549812b9b17cc7225daa8c79acaf56d1f5f150b91d7af58af11341f6bb46875": "- Now forcing SASL2+SCRAM for yax.im (already forced for conversations.im)",
+        "9549812b9b17cc7225daa8c79acaf56d1f5f150b91d7af58af11341f6bb46875": "-Utilisation désormais forcée de SASL2+SCRAM pour yax.im (déjà forcé pour conversations.im)",
         "112ac3bdcdb2a2fd0f8a42e78b1c195c5ec38d11b0b60403a5d52e4fc652fc47": "- Correction de l'affichage des messages contenant des listes d'URL",
         "72ee0834d258e5275e92e0d4063b612ea793575e0e2c76ecc0511593abe1a0a4": "- Correction d'un rare OMEMO de boucle de publication de liste d'appareil (merci à renegade)",
-        "2fd5948cd3564047d7ac02572f484a2c183a93691a3166365b68b39ea3d45912": "- Notes about new/deleted OMEMO devices of chat partners aren't displayed anymore for TOFU devices (no device explicitly trusted/untrusted by the user)",
-        "65464bcb0969b9c43437257b66ed11245e556f90161e0ab5960c5b92426da74f": "- Fixed some more small bugs",
-        "223762d924fd2858f11a4bc851590f5146e14003a6fa798e140de09ca5cc0be9": "- Fixed speaker not turning on for video calls on some devices"
+        "2fd5948cd3564047d7ac02572f484a2c183a93691a3166365b68b39ea3d45912": "- Les notes concernant les dispositifs OMEMO neufs ou supprimés des partenaires de chat ne sont plus affichées pour les périphériques TOFU (aucun appareil explicitement fiable/non confié par l'utilisateur)",
+        "65464bcb0969b9c43437257b66ed11245e556f90161e0ab5960c5b92426da74f": "- Correction d'autres petits bugs",
+        "223762d924fd2858f11a4bc851590f5146e14003a6fa798e140de09ca5cc0be9": "- Correction du haut-parleur ne s'allumant pas pour des appels vidéo sur certains appareils"
     }
 }
