@@ -7,6 +7,8 @@
         "9549812b9b17cc7225daa8c79acaf56d1f5f150b91d7af58af11341f6bb46875": "- SASL2+SCRAM wird nun für yax.im erzwungen (bereits für conversations.im erzwungen)",
         "112ac3bdcdb2a2fd0f8a42e78b1c195c5ec38d11b0b60403a5d52e4fc652fc47": "- Darstellung von Nachrichten, die eine Liste von URLs enthalten, wurde korrigiert",
         "72ee0834d258e5275e92e0d4063b612ea793575e0e2c76ecc0511593abe1a0a4": "- Seltene Endlosschleife bei der Veröffentlichung der OMEMO-Geräteliste behoben (Dank an renegade)",
-        "2fd5948cd3564047d7ac02572f484a2c183a93691a3166365b68b39ea3d45912": "- Hinweise zu neuen/gelöschten OMEMO-Geräten von Chat-Partnern werden für TOFU-Geräte nicht mehr angezeigt (also Geräte, die der Benutzer nicht ausdrücklich als vertrauenswürdig/nicht vertrauenswürdig eingestuft hat)"
+        "2fd5948cd3564047d7ac02572f484a2c183a93691a3166365b68b39ea3d45912": "- Hinweise zu neuen/gelöschten OMEMO-Geräten von Chat-Partnern werden für TOFU-Geräte nicht mehr angezeigt (also Geräte, die der Benutzer nicht ausdrücklich als vertrauenswürdig/nicht vertrauenswürdig eingestuft hat)",
+        "65464bcb0969b9c43437257b66ed11245e556f90161e0ab5960c5b92426da74f": "- Fixed some more small bugs",
+        "223762d924fd2858f11a4bc851590f5146e14003a6fa798e140de09ca5cc0be9": "- Fixed speaker not turning on for video calls on some devices"
     }
 }
