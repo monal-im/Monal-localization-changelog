@@ -9,6 +9,7 @@
         "72ee0834d258e5275e92e0d4063b612ea793575e0e2c76ecc0511593abe1a0a4": "- Correction d'un rare OMEMO de boucle de publication de liste d'appareil (merci à renegade)",
         "2fd5948cd3564047d7ac02572f484a2c183a93691a3166365b68b39ea3d45912": "- Les notes concernant les dispositifs OMEMO neufs ou supprimés des partenaires de chat ne sont plus affichées pour les périphériques TOFU (aucun appareil explicitement fiable/non confié par l'utilisateur)",
         "65464bcb0969b9c43437257b66ed11245e556f90161e0ab5960c5b92426da74f": "- Correction d'autres petits bugs",
-        "223762d924fd2858f11a4bc851590f5146e14003a6fa798e140de09ca5cc0be9": "- Correction du haut-parleur ne s'allumant pas pour des appels vidéo sur certains appareils"
+        "223762d924fd2858f11a4bc851590f5146e14003a6fa798e140de09ca5cc0be9": "- Correction du haut-parleur ne s'allumant pas pour des appels vidéo sur certains appareils",
+        "596abf76a8a76a6fa56b17cf0ac51a760531cdcc8cd570b690a073e03f4bb738": "- Fixed even more small bugs"
     }
 }
