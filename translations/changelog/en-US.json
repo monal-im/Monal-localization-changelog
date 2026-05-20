@@ -1,15 +1,10 @@
 {
-    "6.4.20": {
-        "9549812b9b17cc7225daa8c79acaf56d1f5f150b91d7af58af11341f6bb46875": "- Now forcing SASL2+SCRAM for yax.im (already forced for conversations.im)",
-        "112ac3bdcdb2a2fd0f8a42e78b1c195c5ec38d11b0b60403a5d52e4fc652fc47": "- Fixed display of messages containing a list of urls",
-        "4a868cde2a734362113969168e37a60bb21c771888d274527fa45cebf688250b": "- Fixed crash when receiving files with too long filenames",
-        "9b8c499fc0484492cbbb923dc76a0152befa2d7b2031acee58f4d1d4d4c6f2b6": "- Fixed rare case not connecting to a server after bringing the app from foreground to background too fast",
-        "72ee0834d258e5275e92e0d4063b612ea793575e0e2c76ecc0511593abe1a0a4": "- Fixed rare OMEMO devicelist publishing loop (thanks renegade)",
-        "10f984591188f9bce08915f03687f34f8768437e033538cfa567351b66600959": "- Fixed list of contacts in share sheet to not contain contacts only known from groupchats (thanks Kati)",
-        "b43864ee5ae77eb313d60ad72b3a7703c70090ce5dc8181237b63033c23330e1": "- Fixed very rare OMEMO identity regeneration when receiving a push after device reboot but before entering the passcode for the first time",
-        "2fd5948cd3564047d7ac02572f484a2c183a93691a3166365b68b39ea3d45912": "- Notes about new/deleted OMEMO devices of chat partners aren't displayed anymore for TOFU devices (no device explicitly trusted/untrusted by the user)",
-        "223762d924fd2858f11a4bc851590f5146e14003a6fa798e140de09ca5cc0be9": "- Fixed speaker not turning on for video calls on some devices",
-        "65464bcb0969b9c43437257b66ed11245e556f90161e0ab5960c5b92426da74f": "- Fixed some more small bugs",
-        "596abf76a8a76a6fa56b17cf0ac51a760531cdcc8cd570b690a073e03f4bb738": "- Fixed even more small bugs"
+    "6.4.21": {
+        "2dafe997caec93bef9a66815aa6854a6cf3b4023e08faf26eb5937d12bc1e4ef": "- Show last usage timestamp of OMEMO keys",
+        "49a3df5fe95844a7b01b215c61b57836d0f08b02706dd66e466fd5b2e1c4ccfa": "- Use the iOS 18 UI in the share sheet",
+        "68be310123d92244d1a27d6973be0249bdc775c2aa7c27da388fce794c957540": "- Allow using any language in the Display Name field in account settings",
+        "eed248791610f8a4748d96f5f20d8856d6bdee4bb90884f11830f64d7a0725b2": "- Try to improve location sharing accuracy",
+        "8de98b412eb1fc7b4ae00695ed1d017940b49f1fbda0ba31408285d13037e40f": "- Improve contact last activity timestamps",
+        "b828a757e7ba45c223de7dc54ad78d17ad9f0fd05ddaffa87b74f8850603361e": "- Fix several bugs"
     }
 }
