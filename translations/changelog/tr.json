@@ -1,15 +1,1 @@
-{
-    "6.4.20": {
-        "10f984591188f9bce08915f03687f34f8768437e033538cfa567351b66600959": "- Paylaşım menüsündeki kişi listesinde artık yalnızca grup sohbetlerinden tanınan kişilerin yer almaması sorunu giderildi (teşekkürler Kati)",
-        "9b8c499fc0484492cbbb923dc76a0152befa2d7b2031acee58f4d1d4d4c6f2b6": "- Uygulamayı ön plandan arka plana çok hızlı bir şekilde taşıdıktan sonra sunucuya bağlanamama sorununu giderildi",
-        "b43864ee5ae77eb313d60ad72b3a7703c70090ce5dc8181237b63033c23330e1": "- Cihazın yeniden başlatılmasından sonra, ancak şifre ilk kez girilmeden önce bir bildirim alındığında çok nadiren meydana gelen OMEMO kimlik yenileme sorunu giderildi",
-        "4a868cde2a734362113969168e37a60bb21c771888d274527fa45cebf688250b": "- Dosya adları çok uzun olan dosyalar alınırken yaşanan çökme sorunu giderildi",
-        "9549812b9b17cc7225daa8c79acaf56d1f5f150b91d7af58af11341f6bb46875": "- Artık yax.im için SASL2+SCRAM kullanımı zorunlu hale getirildi (conversations.im için zaten zorunluydu)",
-        "112ac3bdcdb2a2fd0f8a42e78b1c195c5ec38d11b0b60403a5d52e4fc652fc47": "- URL listesi içeren mesajların görüntülenmesi sorunu giderildi",
-        "72ee0834d258e5275e92e0d4063b612ea793575e0e2c76ecc0511593abe1a0a4": "- Nadiren ortaya çıkan OMEMO cihaz listesi yayınlama döngüsü sorunu giderildi (teşekkürler renegade)",
-        "2fd5948cd3564047d7ac02572f484a2c183a93691a3166365b68b39ea3d45912": "- TOFU cihazlarında (kullanıcı tarafından açıkça güvenilir veya güvenilmez olarak işaretlenmemiş cihazlar), sohbet ortaklarının yeni eklenen veya silinen OMEMO cihazlarına ilişkin notlar artık görüntülenmiyor",
-        "65464bcb0969b9c43437257b66ed11245e556f90161e0ab5960c5b92426da74f": "- Bazı küçük hatalar giderildi",
-        "223762d924fd2858f11a4bc851590f5146e14003a6fa798e140de09ca5cc0be9": "- Bazı cihazlarda görüntülü görüşmeler sırasında hoparlörün açılmaması sorunu giderildi",
-        "596abf76a8a76a6fa56b17cf0ac51a760531cdcc8cd570b690a073e03f4bb738": "- Daha fazla küçük hata düzeltildi"
-    }
-}
+{}
