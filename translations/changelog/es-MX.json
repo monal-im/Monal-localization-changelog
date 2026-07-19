@@ -1,6 +1,6 @@
 {
     "6.4.21": {
-        "2dafe997caec93bef9a66815aa6854a6cf3b4023e08faf26eb5937d12bc1e4ef": "- Show last usage timestamp of OMEMO keys",
+        "2dafe997caec93bef9a66815aa6854a6cf3b4023e08faf26eb5937d12bc1e4ef": "- Show last usage timestamp of omemo keys",
         "eed248791610f8a4748d96f5f20d8856d6bdee4bb90884f11830f64d7a0725b2": "- Intentar mejorar la precisión al compartir la ubicación",
         "8de98b412eb1fc7b4ae00695ed1d017940b49f1fbda0ba31408285d13037e40f": "- Mejorar las marcas de tiempo de la última actividad de los contactos",
         "68be310123d92244d1a27d6973be0249bdc775c2aa7c27da388fce794c957540": "- Permitir usar cualquier idioma en el campo Nombre para mostrar de la configuración de la cuenta",
