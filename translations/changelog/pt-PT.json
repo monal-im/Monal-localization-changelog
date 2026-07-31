@@ -5,6 +5,6 @@
         "8de98b412eb1fc7b4ae00695ed1d017940b49f1fbda0ba31408285d13037e40f": "- Improve contact last activity timestamps",
         "68be310123d92244d1a27d6973be0249bdc775c2aa7c27da388fce794c957540": "- Allow using any language in the Display Name field in account settings",
         "49a3df5fe95844a7b01b215c61b57836d0f08b02706dd66e466fd5b2e1c4ccfa": "- Use the iOS 18 UI in the share sheet",
-        "b828a757e7ba45c223de7dc54ad78d17ad9f0fd05ddaffa87b74f8850603361e": "- Fix several bugs"
+        "b828a757e7ba45c223de7dc54ad78d17ad9f0fd05ddaffa87b74f8850603361e": "Correção de diversos erros"
     }
 }
