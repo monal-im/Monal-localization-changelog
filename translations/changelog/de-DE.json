@@ -1,7 +1,7 @@
 {
     "6.4.22": {
-        "57234489d2895595f495ff946e49defa7517a8ab0926cb55c2a6ece4dec0cee1": "- Voice-over-Lokalisierung des Ladekreisels in der Chat-Übersicht ermöglichen",
-        "0ea724bbe12576e40d0149f3ff86e305ce5ce8b91bda3e677116b198df896b90": "- Dateinamen beim Hochladen beim Senden verschlüsselter Dateien verschleiern ",
+        "57234489d2895595f495ff946e49defa7517a8ab0926cb55c2a6ece4dec0cee1": "- Lokalisierung der Sprachansage für den Ladeindikator in der Chat-Übersicht ermöglicht",
+        "0ea724bbe12576e40d0149f3ff86e305ce5ce8b91bda3e677116b198df896b90": "- Dateinamen beim Hochladen verschleiern, wenn verschlüsselte Dateien gesendet werden ",
         "7a1bf9e16b47204cf6be24c2e284a57136727bcc2edd8e51d77701c40cef389c": "- Verbessertes Handling von SRV-Einträgen mit Punkten"
     }
 }
