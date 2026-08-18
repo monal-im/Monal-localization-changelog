@@ -1,7 +1,7 @@
 {
     "6.4.22": {
-        "57234489d2895595f495ff946e49defa7517a8ab0926cb55c2a6ece4dec0cee1": "- Allow voice-over localization of loading spinner in the chats overview",
-        "0ea724bbe12576e40d0149f3ff86e305ce5ce8b91bda3e677116b198df896b90": "- Obfuscate upload filenames when sending encrypted files ",
-        "7a1bf9e16b47204cf6be24c2e284a57136727bcc2edd8e51d77701c40cef389c": "- Improve SRV-record handling for dot records"
+        "57234489d2895595f495ff946e49defa7517a8ab0926cb55c2a6ece4dec0cee1": "- Permitir a localização por voice-over do indicador de carregamento na visão geral das conversas",
+        "0ea724bbe12576e40d0149f3ff86e305ce5ce8b91bda3e677116b198df896b90": "- Ofuscar os nomes dos arquivos enviados ao enviar arquivos criptografados ",
+        "7a1bf9e16b47204cf6be24c2e284a57136727bcc2edd8e51d77701c40cef389c": "- Melhorar o tratamento de registros SRV com pontos"
     }
 }
