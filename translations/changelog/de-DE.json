@@ -2,6 +2,10 @@
     "6.4.22": {
         "57234489d2895595f495ff946e49defa7517a8ab0926cb55c2a6ece4dec0cee1": "- Lokalisierung der Sprachansage für den Ladeindikator in der Chat-Übersicht ermöglicht",
         "0ea724bbe12576e40d0149f3ff86e305ce5ce8b91bda3e677116b198df896b90": "- Dateinamen beim Hochladen verschleiern, wenn verschlüsselte Dateien gesendet werden ",
-        "7a1bf9e16b47204cf6be24c2e284a57136727bcc2edd8e51d77701c40cef389c": "- Verbesserte Verarbeitung von SRV-Einträgen bestehend aus nur einem Punkt (no Service)"
+        "7a1bf9e16b47204cf6be24c2e284a57136727bcc2edd8e51d77701c40cef389c": "- Verbesserte Verarbeitung von SRV-Einträgen bestehend aus nur einem Punkt (no Service)",
+        "2cb66eb51ff1879ac1f99a01ed5296e547811d90bd4a5867510a85c929e9be90": "- We don't show the login view anymore, if all configured accounts are disabled",
+        "63a9052e92dd7537a97894357eedf5673119210e7a8e2d5bd4dcacc4d7259ec1": "- Increased sync speed considerably",
+        "482a166db2682d6e86c33451e9b7e6bbf82ef16200b2417dca051e3cd3b3c9f2": "- Sharing something using the share sheet should no longer attach a spurious garbled file alongside",
+        "702b4e6b9b113fad8e50d73c62bcdae601c430c1e7c3cd5069b8c286847dd84f": "- The last message of a chat was partially hidden on iOS or macOS 27, this is fixed now"
     }
 }
