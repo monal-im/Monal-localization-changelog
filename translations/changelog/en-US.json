@@ -3,6 +3,7 @@
         "63a9052e92dd7537a97894357eedf5673119210e7a8e2d5bd4dcacc4d7259ec1": "- Increased sync speed considerably",
         "2cb66eb51ff1879ac1f99a01ed5296e547811d90bd4a5867510a85c929e9be90": "- We don't show the login view anymore, if all configured accounts are disabled",
         "702b4e6b9b113fad8e50d73c62bcdae601c430c1e7c3cd5069b8c286847dd84f": "- The last message of a chat was partially hidden on iOS or macOS 27, this is fixed now",
-        "482a166db2682d6e86c33451e9b7e6bbf82ef16200b2417dca051e3cd3b3c9f2": "- Sharing something using the share sheet should no longer attach a spurious garbled file alongside"
+        "482a166db2682d6e86c33451e9b7e6bbf82ef16200b2417dca051e3cd3b3c9f2": "- Sharing something using the share sheet should no longer attach a spurious garbled file alongside",
+        "9117bef0313d80125f2a24c839fd1083bbf60b75fbf4a1672b541c70fb6b0862": "- Fixed calls with Conversations"
     }
 }
