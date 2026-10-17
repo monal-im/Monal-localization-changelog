@@ -1,9 +1,11 @@
 {
-    "6.4.23": {
-        "63a9052e92dd7537a97894357eedf5673119210e7a8e2d5bd4dcacc4d7259ec1": "- Increased sync speed considerably",
-        "2cb66eb51ff1879ac1f99a01ed5296e547811d90bd4a5867510a85c929e9be90": "- We don't show the login view anymore, if all configured accounts are disabled",
-        "702b4e6b9b113fad8e50d73c62bcdae601c430c1e7c3cd5069b8c286847dd84f": "- The last message of a chat was partially hidden on iOS or macOS 27, this is fixed now",
-        "482a166db2682d6e86c33451e9b7e6bbf82ef16200b2417dca051e3cd3b3c9f2": "- Sharing something using the share sheet should no longer attach a spurious garbled file alongside",
-        "9117bef0313d80125f2a24c839fd1083bbf60b75fbf4a1672b541c70fb6b0862": "- Fixed calls with Conversations"
+    "6.4.24": {
+        "43d8a72bdfe55031f5912bb5e787f56f02b40d214dabc51d7224d11e639a263d": "- Fixed playback of received mp3 files",
+        "c0fa848e1372d87d6ae8101fc43296dcf136db4705bd1eb291f30f796ff11c63": "- Fixed vanishing toolbar buttons in active chats list",
+        "a829b2afb4ce54fa2b78424a877927d0aa86a7934ed736f0ac59a8c57e44b37d": "- Fixed sharing location from Google Maps",
+        "0a96afc8320087c51defc1bd7a8075b5af007f4776ed5d7439df7715df5200f6": "- Switched from iOS bundled libxml2 to new rust based xml parser to fix crashes",
+        "bb78e8132427ad098e1c36e23c28743babf66b6741e31ea9d3db620859361bb1": "- Now only accepting Channel/Group invites from contacts approved to our contact list",
+        "48a9af62010ef6192b9ce7e6b00dd71c3574c0a572ad02e8a213ab9aa5f77f78": "- Fixed deeply nested xml DoS vector in push notification handler",
+        "8a335008a3029e6059914581712de67154f85f7708c09f67b5d1f1b87d1a3e91": "- Fixed several crashes"
     }
 }
