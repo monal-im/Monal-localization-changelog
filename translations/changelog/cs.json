@@ -6,6 +6,8 @@
         "48a9af62010ef6192b9ce7e6b00dd71c3574c0a572ad02e8a213ab9aa5f77f78": "- Opraven vektor útoku DoS pomocí hluboce vnořeného XML v obsluze push oznámení",
         "bb78e8132427ad098e1c36e23c28743babf66b6741e31ea9d3db620859361bb1": "- Omezeno přijímání pozvánek do kanálů a skupin pouze na kontakty schválené pro náš seznam kontaktů",
         "8a335008a3029e6059914581712de67154f85f7708c09f67b5d1f1b87d1a3e91": "- Opraveno několik pádů",
-        "43d8a72bdfe55031f5912bb5e787f56f02b40d214dabc51d7224d11e639a263d": "- Opraveno přehrávání přijatých souborů mp3"
+        "43d8a72bdfe55031f5912bb5e787f56f02b40d214dabc51d7224d11e639a263d": "- Opraveno přehrávání přijatých souborů mp3",
+        "046dd851d61b8493ca7af926771c8185ae8a8884ef09c56810f1419710faa024": "- Fixed spurious MUC join errors",
+        "b08483654bbb270d272d7e87b7be7af56db95ff76546022a4c6266929031997b": "- Added DNSSEC bug warning"
     }
 }
