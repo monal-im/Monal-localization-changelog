@@ -6,6 +6,8 @@
         "0a96afc8320087c51defc1bd7a8075b5af007f4776ed5d7439df7715df5200f6": "- Switched from iOS bundled libxml2 to new rust based xml parser to fix crashes",
         "bb78e8132427ad098e1c36e23c28743babf66b6741e31ea9d3db620859361bb1": "- Now only accepting Channel/Group invites from contacts approved to our contact list",
         "48a9af62010ef6192b9ce7e6b00dd71c3574c0a572ad02e8a213ab9aa5f77f78": "- Fixed deeply nested xml DoS vector in push notification handler",
-        "8a335008a3029e6059914581712de67154f85f7708c09f67b5d1f1b87d1a3e91": "- Fixed several crashes"
+        "8a335008a3029e6059914581712de67154f85f7708c09f67b5d1f1b87d1a3e91": "- Fixed several crashes",
+        "b08483654bbb270d272d7e87b7be7af56db95ff76546022a4c6266929031997b": "- Added DNSSEC bug warning",
+        "046dd851d61b8493ca7af926771c8185ae8a8884ef09c56810f1419710faa024": "- Fixed spurious MUC join errors"
     }
 }
