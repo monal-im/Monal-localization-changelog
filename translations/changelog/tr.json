@@ -1,13 +1,13 @@
 {
     "6.4.24": {
-        "0a96afc8320087c51defc1bd7a8075b5af007f4776ed5d7439df7715df5200f6": "- Switched from iOS bundled libxml2 to new rust based xml parser to fix crashes",
-        "c0fa848e1372d87d6ae8101fc43296dcf136db4705bd1eb291f30f796ff11c63": "- Fixed vanishing toolbar buttons in active chats list",
-        "a829b2afb4ce54fa2b78424a877927d0aa86a7934ed736f0ac59a8c57e44b37d": "- Fixed sharing location from Google Maps",
-        "48a9af62010ef6192b9ce7e6b00dd71c3574c0a572ad02e8a213ab9aa5f77f78": "- Fixed deeply nested xml DoS vector in push notification handler",
-        "bb78e8132427ad098e1c36e23c28743babf66b6741e31ea9d3db620859361bb1": "- Now only accepting Channel/Group invites from contacts approved to our contact list",
-        "8a335008a3029e6059914581712de67154f85f7708c09f67b5d1f1b87d1a3e91": "- Fixed several crashes",
-        "43d8a72bdfe55031f5912bb5e787f56f02b40d214dabc51d7224d11e639a263d": "- Fixed playback of received mp3 files",
-        "046dd851d61b8493ca7af926771c8185ae8a8884ef09c56810f1419710faa024": "- Fixed spurious MUC join errors",
-        "b08483654bbb270d272d7e87b7be7af56db95ff76546022a4c6266929031997b": "- Added DNSSEC bug warning"
+        "0a96afc8320087c51defc1bd7a8075b5af007f4776ed5d7439df7715df5200f6": "- Çökme sorunlarını gidermek için iOS ile birlikte gelen libxml2 yerine yeni, Rust tabanlı bir XML ayrıştırıcısına geçildi",
+        "c0fa848e1372d87d6ae8101fc43296dcf136db4705bd1eb291f30f796ff11c63": "- Etkin sohbetler listesinde araç çubuğu düğmelerinin kaybolması sorunu giderildi",
+        "a829b2afb4ce54fa2b78424a877927d0aa86a7934ed736f0ac59a8c57e44b37d": "- Google Haritalar'dan konum paylaşma sorunu giderildi",
+        "48a9af62010ef6192b9ce7e6b00dd71c3574c0a572ad02e8a213ab9aa5f77f78": "- Push bildirim işleyicisinde derinlemesine iç içe geçmiş xml kaynaklı DoS vektörü giderildi",
+        "bb78e8132427ad098e1c36e23c28743babf66b6741e31ea9d3db620859361bb1": "- Artık yalnızca kişi listemizde onaylanmış kişilerden gelen kanal/grup davetleri kabul edilmektedir",
+        "8a335008a3029e6059914581712de67154f85f7708c09f67b5d1f1b87d1a3e91": "- Birkaç çökme sorunu giderildi",
+        "43d8a72bdfe55031f5912bb5e787f56f02b40d214dabc51d7224d11e639a263d": "- Alınan mp3 dosyalarının oynatılması sorunu giderildi",
+        "046dd851d61b8493ca7af926771c8185ae8a8884ef09c56810f1419710faa024": "- Hatalı MUC katılım hataları düzeltildi",
+        "b08483654bbb270d272d7e87b7be7af56db95ff76546022a4c6266929031997b": "- DNSSEC hatası için uyarı eklendi"
     }
 }
