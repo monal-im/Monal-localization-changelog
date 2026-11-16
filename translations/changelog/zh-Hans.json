@@ -1,13 +1,13 @@
 {
     "6.4.24": {
-        "0a96afc8320087c51defc1bd7a8075b5af007f4776ed5d7439df7715df5200f6": "- Switched from iOS bundled libxml2 to new rust based xml parser to fix crashes",
-        "c0fa848e1372d87d6ae8101fc43296dcf136db4705bd1eb291f30f796ff11c63": "- Fixed vanishing toolbar buttons in active chats list",
-        "a829b2afb4ce54fa2b78424a877927d0aa86a7934ed736f0ac59a8c57e44b37d": "- Fixed sharing location from Google Maps",
-        "48a9af62010ef6192b9ce7e6b00dd71c3574c0a572ad02e8a213ab9aa5f77f78": "- Fixed deeply nested xml DoS vector in push notification handler",
-        "bb78e8132427ad098e1c36e23c28743babf66b6741e31ea9d3db620859361bb1": "- Now only accepting Channel/Group invites from contacts approved to our contact list",
-        "8a335008a3029e6059914581712de67154f85f7708c09f67b5d1f1b87d1a3e91": "- Fixed several crashes",
-        "43d8a72bdfe55031f5912bb5e787f56f02b40d214dabc51d7224d11e639a263d": "- Fixed playback of received mp3 files",
-        "046dd851d61b8493ca7af926771c8185ae8a8884ef09c56810f1419710faa024": "- Fixed spurious MUC join errors",
-        "b08483654bbb270d272d7e87b7be7af56db95ff76546022a4c6266929031997b": "- Added DNSSEC bug warning"
+        "0a96afc8320087c51defc1bd7a8075b5af007f4776ed5d7439df7715df5200f6": "- 从 iOS 捆绑的 libxml2 切换到新的基于 rust 的 xml 解析器以修复崩溃",
+        "c0fa848e1372d87d6ae8101fc43296dcf136db4705bd1eb291f30f796ff11c63": "- 修复了活跃聊天列表中工具栏按钮消失的问题",
+        "a829b2afb4ce54fa2b78424a877927d0aa86a7934ed736f0ac59a8c57e44b37d": "- 修复了从 Google 地图分享位置的功能",
+        "48a9af62010ef6192b9ce7e6b00dd71c3574c0a572ad02e8a213ab9aa5f77f78": "- 修复了推送通知处理程序中深度嵌套的 xml 拒绝服务攻击向量",
+        "bb78e8132427ad098e1c36e23c28743babf66b6741e31ea9d3db620859361bb1": "- 现在仅接受来自已添加到联系人列表中的联系人的频道/群聊邀请",
+        "8a335008a3029e6059914581712de67154f85f7708c09f67b5d1f1b87d1a3e91": "- 修复了一些崩溃问题",
+        "43d8a72bdfe55031f5912bb5e787f56f02b40d214dabc51d7224d11e639a263d": "- 修复了接收的 mp3 文件的播放问题",
+        "046dd851d61b8493ca7af926771c8185ae8a8884ef09c56810f1419710faa024": "- 修复了虚假的 MUC 加入错误",
+        "b08483654bbb270d272d7e87b7be7af56db95ff76546022a4c6266929031997b": "- 添加了 DNSSEC 错误警告"
     }
 }
